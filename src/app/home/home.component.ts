@@ -10,15 +10,15 @@ export class HomeComponent implements OnInit{
   bannerImgs = [
     {
       id: 1,
-      img: '../../assets/images/banner/banner_one.jpg'
+      img: 'assets/images/banner/banner_one.jpg'
     },
     {
       id: 2,
-      img: '../../assets/images/banner/banner_two.jpg'
+      img: 'assets/images/banner/banner_two.jpg'
     },
     {
       id: 3,
-      img: '../../assets/images/banner/banner_three.jpg'
+      img: 'assets/images/banner/banner_three.jpg'
     }
   ];
   getCategoriesData:any;

@@ -28,25 +28,25 @@ export class GetDataService {
     {
       id: 1,
       name: 'Fashion',
-      img: "assets/images/categoriesimg/fashion.jpg",
+      img: "./assets/images/categoriesimg/fashion.JPG",
       code: 'fashion'
     },
     {
       id: 2,
       name: 'Home & Furniture', 
-      img: "assets/images/categoriesimg/furniture.jpg", 
+      img: "./assets/images/categoriesimg/furniture.jpg", 
       code: 'homeandfurniture'
     },
     {
       id: 3, 
       name: 'Appliance', 
-      img: "assets/images/categoriesimg/appliance.webp", 
+      img: "./assets/images/categoriesimg/appliance.WEBP", 
       code: 'appliance'
     },
     {
       id: 4, 
       name: 'Toys', 
-      img: "assets/images/categoriesimg/toys.webp", 
+      img: "./assets/images/categoriesimg/toys.webp", 
       code: 'toys'
     }
   ]
